@@ -1,0 +1,8 @@
+{
+    "require": {
+        "webmozart/console": "~1.0@beta"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
